@@ -141,7 +141,7 @@
   ],
   "schools": [
     {
-      "schoolId": 0,
+      "id": 1,
       "count_students_currently_enrolled": 23,
       "count_teachers": 6,
       "school_description": "this is a description of the school",
@@ -151,7 +151,7 @@
       "notes": "general notes about the school"
     },
     {
-      "schoolId": 1,
+      "id": 2,
       "count_students_currently_enrolled": 52,
       "count_teachers": 9,
       "school_description": "this is a description of the school",
@@ -161,7 +161,7 @@
       "notes": "general notes about the school"
     },
     {
-      "schoolId": 2,
+      "id": 3,
       "count_students_currently_enrolled": 43,
       "count_teachers": 8,
       "school_description": "this is a description of the school",
